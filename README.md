@@ -8,7 +8,7 @@
 
 # Description:
 
-### The main idea of this project is to develope a recommender engine to help craft beer sellers to recommend beers to their customers and therefore to sell more stuff. It has tried to make web scraping asking for API's ay some websites as "Ratebeer", "Beeradvocate", but it was slow to build a dataset with queries limitations so eventually it was got a .txt file from Beeradvocate from a Stanford University website with loads records. From this:
+### The main idea of this project is to develope a recommender engine to help craft beer sellers to recommend beers to their customers and therefore to sell more stuff. It has been tried to make web scraping asking for API's ay some websites as "Ratebeer", "Beeradvocate", but it was slow to build an important dataset with queries limitations so eventually it was got a .txt file from Beeradvocate from a Stanford University website with lots of records. From this:
 
 =============================================================================================
 
