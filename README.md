@@ -21,6 +21,8 @@
 ### Developing recommender engines:
 
 #### It has been thought to consult different resources to get knowledege and start to program. It is for this reason, the structure of the Recommender Engine Folder has different ways to approach this target. Notebooks topics are decribe in README included in this Recommender Engine Folder.
+#### Overall it has been taken ratings as the feature which it has been built the engines relating them with users, beers and syles.
+#### The most important programming steps are explained in the notebooks.
 
 =============================================================================================
 
@@ -37,7 +39,7 @@
 
 #### It has been wanted to make a webservice application using either Flask or Werkzeug to visualize the drop down lists of the 3 engines it have been made which have this application and show the prediction results.
 
-#### Maybe an improvement would be to segment the dataset by styles to make micro recommender engines only for the most popular/had styles
+#### Maybe an improvement would be to segment the dataset by styles to make recommender engines only for the most popular/rated styles, as well as iterating over other structures.
 
 #### All of them are a matter of time.
 
