@@ -29,7 +29,7 @@
 
 ## Conclusions:
 
-#### The raw data was huge but it seems it is not enought to get a reliable recommender engine. This is becasue it is missed share data, it means more ratings, more users, and more beers had by users, there are lots of different beers... This is an issue which come from work with a static dataset from a few years ago. It is predictable it is going to improve becasuse of obtaining more and more data as well as loads of websites like Amazon, Alibaba, etc.
+#### The raw data was huge but it seems there is not enought related fields to get a reliable recommender engine. This is becasue it is missing common ratings between different users, it means more ratings, more users, and more beers rated by users, there are lots of different beers...It is predictable it is going to improve becasuse of obtaining more and more data by beer ratings websites as well as several websites like Amazon, Alibaba, etc.
 #### Anyway, the models work, but next target is to improve accuracy
 
 =============================================================================================
