@@ -1,8 +1,8 @@
 =============================================================================================
 # Craft Beer Recommender
 
-# TFM Alexandra Baron & Alejandro Notario
+### FMP Alexandra Baron & Alejandro Notario
 
-# Data Science Master. KSchool 4th Edition
-
+### Data Science Master. KSchool 4th Edition
+=============================================================================================
 
