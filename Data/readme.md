@@ -4,5 +4,5 @@
 ## 2) Dataset structure.ipynb
 ## 3) dataframe_adapted_to_recommender.ipynb
 
-## It generates a dataset with we have worked with. Anyway, It can be changed some code at 2) and·3) to get different resultsat the end
+## It generates a dataset with we have worked with. Anyway, It can be changed some code at 2) and·3) to get different results at the end
 ================================================================================================
