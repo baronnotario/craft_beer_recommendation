@@ -20,7 +20,7 @@
 
 ### "collaborative_filtering_recommender.ipynb":
 
-#### This recommender allows to select a USER at a drop down list. It would be the case of a person who is already a user of a kind of beers ratings website and get top k beers for every registered user. It is based on Pearson correlation  coefficients sum from its correlation coefficient matrix. The list is sorted by values and it can be taken k  top values. It does not have neither accuracy scorenor error evaluation.
+#### This recommender allows to select a USER at a drop down list. It would be the case of a person who is already a user of a kind of beers ratings website and get top k beers for every registered user. It is based on Pearson correlation  coefficients sum from its correlation coefficient matrix. The list is sorted by values and it can be taken k  top values. It does not have neither accuracy score nor error evaluation.
 
 ### "recommender_beer_input.ipynb":
 
