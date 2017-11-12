@@ -8,7 +8,7 @@
 
 ### "collaborative_filtering_KNN_&_Item_based(RMSE).ipynb":
 
-#### It has a collaborative filtering and an item based engines. It has been got the RMSE in both cases and a clear idea of the final dataset structure in which it can be seen a low sparsity. Maybe to make good predictions it is needed more historical data to try filters and reduce zeros
+#### It has a collaborative filtering and an item based engines. It has been got the RMSE in both cases and a clear idea of the final dataset structure in which it can be seen a low sparsity. Maybe to make good predictions it is needed more historical data to try filters and reduce zeros.
 
 ### "kneighbors_test_using_beers.ipynb":
 
