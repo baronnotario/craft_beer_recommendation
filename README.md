@@ -22,7 +22,8 @@
 
 #### It has been thought to consult different resources to get knowledege and start to program. It is for this reason, the structure of the Recommender Engine Folder has different ways to approach this target. Notebooks topics are decribe in README included in this Recommender Engine Folder.
 #### Overall it has been taken ratings as the feature which it has been built the engines relating them with users, beers and syles.
-#### The most important programming steps are explained in the notebooks.
+#### *The project has been programmed in Python using Jupyter Notebooks
+#### *The most important programming steps are explained in the notebooks.
 
 =============================================================================================
 
