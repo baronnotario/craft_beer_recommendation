@@ -1,15 +1,13 @@
-=====================================================================================
+=========================================================================================
 # Recommender Engine Folder
-=====================================================================================
+=========================================================================================
 ## This folder contains different engines tested
 ## It has been consulted different knowledge resources to try with this repository data target
-=====================================================================================
+=========================================================================================
 ## The notebooks:
 
 ### "collaborative_filtering_KNN_&_Item_based(RMSE).ipynb":
-#### It has a collaborative filtering and an item based engines. It has been got the RMSE in both cases and a clear idea of
-#### the final dataset structure in which it can be seen a low sparsity. Maybe to make good predictions it is needed more 
-#### historical data to try filters and reduce zeros
+#### It has a collaborative filtering and an item based engines. It has been got the RMSE in both cases and a clear idea of the final dataset structure in which it can be seen a low sparsity. Maybe to make good predictions it is needed more historical data to try filters and reduce zeros
 ### "kneighbors_test_using_beers.ipynb":
 #### This contains a KNN classifier taking 20 neighbors by beers, gets predictions and accuracy, low
 ### "kneighbors_test_using_users.ipynb":
@@ -38,4 +36,4 @@
 ## Markdown:
 ### recommender_resources.md:
 #### Contains resources consulted to make these recommender engines
-======================================================================================
+==========================================================================================
