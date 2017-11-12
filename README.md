@@ -16,7 +16,7 @@
 
 ### Data building and cleansing
 
-#### This work can be found at Data folder. It has been got a final dataframe from a 2 columns .txt file to use testing code deceloping the recommender engines included in this repository, as well as study data structure and analyze it. Tasks and steps are described in a README included in this Data folder as well as the manual to run the notebooks inside.  
+#### This work can be found at Data folder. It has been got a final dataframe from a 2 columns .txt file to use testing code deceloping the recommender engines included in this repository, as well as study data structure and analyze it. Tasks and steps are described in a README included in this Data folder as well as the instructions to run the notebooks inside.  
 
 ### Developing recommender engines:
 
