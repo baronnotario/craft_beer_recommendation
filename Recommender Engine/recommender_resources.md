@@ -12,6 +12,8 @@
 
 ## An Introduction To Statistics With Python by Thomas Haslwanter
 
+## Notebook Juan Arevalo Recommender Systems Kschool Data Sience Master
+
 
 
  
