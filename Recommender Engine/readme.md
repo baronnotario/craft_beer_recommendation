@@ -16,7 +16,7 @@
 
 ### "kneighbors_test_using_users.ipynb":
 
-#### This contains a KNN classifier taking 20 neighbors by users, gets predictions and accuracy, low, but quite higher than using beers as y
+#### This contains a KNN classifier taking 20 neighbors by users, gets predictions and accuracy, low, but quite higher than using beers as "y"
 
 ### "collaborative_filtering_recommender.ipynb":
 
