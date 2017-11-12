@@ -8,7 +8,7 @@
 
 # Description:
 
-### The main idea of this project is to develope a recommender engine to help craft beer sellers to recommend beers to their customers and therefore to sell more stuff. It has been tried to make web scraping asking for API's ay some websites as "Ratebeer", "Beeradvocate", but it was slow to build an important dataset with queries limitations so eventually it was got a .txt file from Beeradvocate from a Stanford University website with lots of records. From this:
+#### The main idea of this project is to develope a recommender engine to help craft beer sellers to recommend beers to their customers and therefore to sell more stuff. It has been tried to make web scraping asking for API's ay some websites as "Ratebeer", "Beeradvocate", but it was slow to build an important dataset with queries limitations so eventually it was got a .txt file from Beeradvocate from a Stanford University website with lots of records. From this:
 
 =============================================================================================
 
@@ -33,11 +33,11 @@
 
 ## Pending tasks:
 
-### It has been wanted to program NLP to use the text review column which contains users comments to transform them in numerical rating code and use it in some model.
+#### It has been wanted to program NLP to use the text review column which contains users comments to transform them in numerical rating code and use it in some model.
 
-### It has been wanted to make a webservice application using either Flask or Werkzeug to visualize the drop down lists of the 3 engines it have been made which have this application and show the prediction results.
+#### It has been wanted to make a webservice application using either Flask or Werkzeug to visualize the drop down lists of the 3 engines it have been made which have this application and show the prediction results.
 
-### Both of them are a matter of time.
+#### Both of them are a matter of time.
 
 =============================================================================================
 
