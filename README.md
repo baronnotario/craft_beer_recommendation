@@ -37,7 +37,9 @@
 
 #### It has been wanted to make a webservice application using either Flask or Werkzeug to visualize the drop down lists of the 3 engines it have been made which have this application and show the prediction results.
 
-#### Both of them are a matter of time.
+#### Maybe an improvement would be to segment the dataset by styles to make micro recommender engines only for the most popular/had styles
+
+#### All of them are a matter of time.
 
 =============================================================================================
 
