@@ -32,7 +32,7 @@
 
 ### 7. "Recommender_Systems_with_Metrics.ipynb"
 
-#### This notebook includes different recommenders with metrics of precission and reacall. It runs with "df_clean.csv" comming from "Dataset structure.ipynb" include in Data Folder of this repository. 
+#### This notebook includes different recommenders with metrics of precission and reacall. It runs with "df_clean.csv" comming from "Dataset structure.ipynb" included in Data Folder of this repository. 
 
 ## File:
 
