@@ -30,19 +30,19 @@
 
 #### This recommender allows to select a STYLE at a drop down list. It would be the case of a person who likes beer but does not know too much about specific brands besides styles. It is based on Pearson correlation coefficients sum from its correlation coefficient matrix (Styles/Beers). The list is sorted by values and it can be taken k top values. It does not have neither accuracy score nor error evaluat"ion.
 
-### 7."Recommender_Systems_with_Metrics.ipynb"
+### 7. "Recommender_Systems_with_Metrics.ipynb"
 
-#### This notebook includes different recommenders with metrics of precission and recall. It runs with "df_clean.csv" comming from "Dataset structure.ipynb" included in Data Folder of this repository. 
+#### This notebook includes different recommenders with metrics of precission and reacall. It runs with "df_clean.csv" comming from "Dataset structure.ipynb" included in Data Folder of this repository. 
 
-## File:
+## .csv File:
 
-### df_to_recommender.csv:
+### "df_to_recommender.csv":
 #### This file comes from /Data notebooks. It can be gererated different files to tests the recommender engines (except 7.)
 
-## Markdown:
+## Markdown Files:
 
-### recommender_resources.md:
+### 1. "recommender_resources.md":
 #### Contains resources consulted to make these recommender engines
-### df_clean_link
+### 2. "link_to_file.md"
 #### Contains the link to download df_clean.csv to run "Recommender_Systems_with_Metrics.ipynb"
 =============================================================================================
