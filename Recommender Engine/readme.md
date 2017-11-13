@@ -4,6 +4,7 @@
 ## This folder contains different engines tested
 ## It has been consulted different knowledge resources to try with this repository data target
 ============================================================================================
+
 ## The notebooks:
 
 ### 1."collaborative_filtering_KNN_&_Item_based(RMSE).ipynb":
@@ -34,12 +35,16 @@
 
 #### This notebook includes different recommenders with metrics of precission and reacall. It runs with "df_clean.csv" comming from "Dataset structure.ipynb" included in Data Folder of this repository. 
 
+
 ## .csv File:
+
 
 ### "df_to_recommender.csv":
 #### This file comes from /Data notebooks. It can be gererated different files to tests the recommender engines (except 7.)
 
+
 ## Markdown Files:
+
 
 ### 1. "recommender_resources.md":
 #### Contains resources consulted to make these recommender engines
